@@ -1,0 +1,13 @@
+.img{
+	height: 164px;
+}
+.img-block{
+	border: 2px solid darkgrey;
+	padding: 2px;
+	height: 280px;
+}
+.text{
+	height: 120px;
+	line-height: 120px;
+	text-align: center;
+}
